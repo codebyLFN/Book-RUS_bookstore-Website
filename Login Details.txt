@@ -1,0 +1,7 @@
+Admin
+	root@outlook.com
+	12345
+
+User
+	sipho@outlook.com
+	12345
